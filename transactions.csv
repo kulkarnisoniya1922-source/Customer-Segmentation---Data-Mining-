@@ -1,0 +1,17 @@
+
+TransactionID,Products
+1,Milk;Bread;Butter
+2,Bread;Butter
+3,Milk;Bread
+4,Milk;Bread;Butter
+5,Bread;Eggs
+6,Milk;Eggs
+7,Milk;Bread;Eggs
+8,Bread;Butter;Eggs
+9,Milk;Bread;Butter
+10,Milk;Butter
+11,Bread;Eggs
+12,Milk;Bread;Butter
+13,Milk;Eggs;Bread
+14,Bread;Butter
+15,Milk;Bread
